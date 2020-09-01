@@ -1,2 +1,10 @@
+<html>
+<heading>
 This is my new project with github.
-Recently learned github
+</heading>
+<body>
+Recently learned Github
+New Github project
+</body>
+
+</html>
